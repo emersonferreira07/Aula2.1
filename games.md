@@ -1,3 +1,4 @@
 Resident Evil;
-Counter Strike;
-Fifa 18.
+The last of Us;
+Counter Strike.
+
