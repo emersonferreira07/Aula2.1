@@ -1,5 +1,6 @@
 # Aula2.1
 Jaimie Alexander
-Tom Ellis
+Bruna Marquezine
 Jennifer Lawrence
+Ursula Corberó
 
